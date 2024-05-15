@@ -1,4 +1,4 @@
-@media (min-width: 640px) {
+@media (min-width:360px) and (max-width:520px) {
     /*-------- Layout Section -------*/
     .s\:aspect-auto { aspect-ratio: auto;}
     .s\:aspect-square { aspect-ratio: 1 / 1; }
@@ -369,7 +369,7 @@
 }
 
 
-@media (min-width: 768px) {
+@media (min-width:521px) and (max-width:768px) {
     /*-------- Layout Section -------*/
     .m\:aspect-auto { aspect-ratio: auto;}
     .m\:aspect-square { aspect-ratio: 1 / 1; }
@@ -751,7 +751,7 @@
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width:769px) and (max-width:1020px) {
     /*-------- Layout Section -------*/
     /* Aspect Ratio */
     .l\:aspect-auto { aspect-ratio: auto;}
@@ -1132,7 +1132,7 @@
     }  
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1021px) {
 /*-------- Layout Section -------*/
     .xl\:aspect-auto { aspect-ratio: auto;}
     .xl\:aspect-square { aspect-ratio: 1 / 1; }
