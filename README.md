@@ -24,11 +24,14 @@ Add the following links to your HTML file to include Blend.CSS from a CDN:
 
 ## Responsive Design
 
-To use Blend.CSS Responsive Breakpoints in your project, simply include the CSS file in your HTML:
+To use Blend.CSS Responsive Breakpoints in your project, You have to use the below Breakpoints for ex 's:flex':
 
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Farhandotshaikh/Blend@main/assets/css/Responsive.min.css">
-```
+| Breakpoint Prefix |                  CSS                             |
+| ----------------- | ------------------------------------------------ |
+| s:                | @media (min-width:360px) and (max-width:520px)   |
+| m:                | @media (min-width:521px) and (max-width:768px)   |
+| l:                | @media (min-width:769px) and (max-width:1020px)  |
+| xl:               | @media (min-width:1021px) and (max-width:1500px) |
 
 You can then apply utility classes or use pre-styled components to style your HTML elements.
 
