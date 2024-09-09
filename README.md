@@ -16,7 +16,7 @@ You can include it directly from a CDN.
 
 ### CDN Links
 
-Add the following links to your HTML file to include Blend.CSS from a CDN:
+Add the following links to your HTML file to include Elementum from a CDN:
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Farhandotshaikh/Elementum@main/assets/css/Elementum.min.css">
@@ -33,7 +33,7 @@ We welcome contributions from the community! If you'd like to contribute to Blen
 
 ## License
 
-Blend.CSS is licensed under the [MIT License](LICENSE).
+Elementum is licensed under the [MIT License](LICENSE).
 
 ---
 
