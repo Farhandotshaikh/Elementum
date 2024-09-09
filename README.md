@@ -8,7 +8,7 @@ Elementum is a lightweight and modular CSS framework designed to help you build 
 
 - **Utility Classes**: A comprehensive set of utility classes for quickly styling elements without writing custom CSS.
 - **Responsive Design**: Built-in support for responsive design with breakpoints and responsive utility classes.
-- **Modular Components**: Elementum UI (https://Farhandotshaikh.github.io/Elementum UI).
+- **Modular Components**: Elementum UI (https://Farhandotshaikh.github.io/ElementumUI).
 
 ## Installation
 
