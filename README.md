@@ -5,7 +5,7 @@ Elementum is a lightweight and modular CSS framework designed to help you build 
 <p align="center">
   <a href="https://Farhandotshaikh.github.io/Elementumcss" target="_blank">
     <picture>
-      <img alt="Elementum CSS" src="./assets/img/Logo.png" height="100" width="350">
+      <img alt="Elementum CSS" src="./assets/img/Logo.png" height="500" width="500">
     </picture>
   </a>
 </p>
