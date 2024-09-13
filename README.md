@@ -1,4 +1,10 @@
-
+<p align="center">
+  <a href="https://Farhandotshaikh.github.io/Elementumcss" target="_blank">
+    <picture>
+      <img alt="Elementum CSS" src="./assets/img/Logo.png" width="350" height="70" style="max-width: 100%;">
+    </picture>
+  </a>
+</p>
 
 # Elementum
 
