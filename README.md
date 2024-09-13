@@ -1,4 +1,4 @@
-<p align="center">  Elementum  </p>
+# Elementum 
 
 Elementum is a lightweight and modular CSS framework designed to help you build modern and responsive web designs with ease. It combines utility classes and components (Elementum UI) to provide a flexible and efficient way to style your web projects.
 
