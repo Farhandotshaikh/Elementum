@@ -1,14 +1,15 @@
+<p align="center">  Elementum  </p>
+
+Elementum is a lightweight and modular CSS framework designed to help you build modern and responsive web designs with ease. It combines utility classes and components (Elementum UI) to provide a flexible and efficient way to style your web projects.
+
 <p align="center">
   <a href="https://Farhandotshaikh.github.io/Elementumcss" target="_blank">
     <picture>
-      <img alt="Elementum CSS" src="./assets/img/Logo.png" width="350" height="70" style="max-width: 100%;">
+      <img alt="Elementum CSS" src="./assets/img/Logo.png">
     </picture>
   </a>
 </p>
 
-# Elementum
-
-Elementum is a lightweight and modular CSS framework designed to help you build modern and responsive web designs with ease. It combines utility classes and components (Elementum UI) to provide a flexible and efficient way to style your web projects.
 
 ## Features
 
